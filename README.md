@@ -6,7 +6,9 @@
 </div>
 
 <br/>
-<p>Projeto conversor de Excel para HTML. Feito durante o curso Formação Node</p>
+<p>Projeto conversor de Excel para HTML. Feito durante o curso Formação Node.</p>
+
+<p>Obtém dados de uma planilha e encaminha para o HTML.</p>
 
 <hr/>
 
